@@ -86,3 +86,7 @@ Android 系统访问youtube工具在[这里](https://github.com/yfang1644/2019-n
 或[这里](https://github.com/yfang1644/2019-nCoV/blob/master/halley_v.apk)。
 (为规避敏感词，软件名已作更改，请自行确认风险)。苹果系统请找境外的朋友帮助你注册境外
 AppleID，使用境外 ID 安装相应软件。
+
+附 [github 使用手册](https://github.com/yfang1644/2019-nCoV/blob/master/github_manual.pdf),
+它是 [progit](https://git-scm.com/book/zh/v2) 的一部分。单独的 github 一章在交叉引用时
+会有缺失。如欲详细了解，请阅读progit完整教材。
