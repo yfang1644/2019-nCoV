@@ -70,3 +70,19 @@ iPhone 手机在有网络的环境中可以用 Facetime。
 作业通过电子邮件提交。文字型题目如无特别说明，请控制在1000字以内。
 (Linux 终端窗口大小 80x25，满窗口显示的汉字是1000字)
 
+
+第二周(3月3日--9日)任务
+-----------------------
+- 阅读讲义第2章，掌握第2章小结中列出的命令
+- 阅读讲义第4章，学习 Python 基本语法
+
+
+推荐参考书: Magnus Lie Hetland, **Beginning Python: From Novice to Professional**
+
+youtube 视频: **CS Dojo** 频道, Python Tutorial #1 and #2.
+(其他你自认为有帮助的教学视频均可，学习Python内建变量及基本运算规则)
+
+Android 系统访问youtube工具在[这里](https://github.com/yfang1644/2019-nCoV/blob/master/sf.apk)
+或[这里](https://github.com/yfang1644/2019-nCoV/blob/master/halley_v.apk)。
+(为规避敏感词，软件名已作更改，请自行确认风险)。苹果系统请找境外的朋友帮助你注册境外
+AppleID，使用境外 ID 安装相应软件。
