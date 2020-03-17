@@ -77,6 +77,13 @@ iPhone 手机在有网络的环境中可以用 Facetime。
 - 阅读讲义第4章，学习 Python 基本语法
 
 
+第四周(3月17日--23日)任务
+-----------------------
+- 阅读讲义第3章, 借助网络资源, 了解树莓派单板计算机
+- 学习计算机控制简单设备的方法, GPIO 的概念 
+- 学习 Python 内建的结构数据的用法, 重点是 str, list, tuple, dictionary
+
+
 推荐参考书: Magnus Lie Hetland, **Beginning Python: From Novice to Professional**
 
 youtube 视频: **CS Dojo** 频道, Python Tutorial #1 and #2.
