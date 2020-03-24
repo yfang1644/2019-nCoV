@@ -84,6 +84,12 @@ iPhone 手机在有网络的环境中可以用 Facetime。
 - 学习 Python 内建的结构数据的用法, 重点是 str, list, tuple, dictionary
 
 
+第五周(3月24日--30日)
+-----------------------
+向B站上传了一段视频(见issue 1)
+如果不能进实验室, 下周暂停。好像暑假会有补课。
+
+
 推荐参考书: Magnus Lie Hetland, **Beginning Python: From Novice to Professional**
 
 youtube 视频: **CS Dojo** 频道, Python Tutorial #1 and #2.
