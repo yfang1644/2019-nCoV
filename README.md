@@ -89,6 +89,11 @@ iPhone 手机在有网络的环境中可以用 Facetime。
 向B站上传了一段视频(见issue 1)
 如果不能进实验室, 下周暂停。好像暑假会有补课。
 
+第七周(4月7日--13日)
+-----------------------
+按文件 embedded_ai_4.pdf 的线索, 阅读讲义2.5节和7.4节.
+
+
 
 推荐参考书: Magnus Lie Hetland, **Beginning Python: From Novice to Professional**
 
