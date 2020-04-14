@@ -93,8 +93,13 @@ iPhone 手机在有网络的环境中可以用 Facetime。
 -----------------------
 按文件 embedded_ai_4.pdf 的线索, 阅读讲义2.5节和7.4节.
 
+第八周(4月14日--20日)
+-----------------------
+学习Python 模块
 
 
+推荐材料
+--------
 推荐参考书: Magnus Lie Hetland, **Beginning Python: From Novice to Professional**
 
 youtube 视频: **CS Dojo** 频道, Python Tutorial #1 and #2.
